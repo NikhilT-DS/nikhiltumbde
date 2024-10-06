@@ -3,16 +3,17 @@
 #### Technical Skills: Python, SQL, PyTorch
 
 ## Education
-- PGDBA | IIM Calcutta, ISI Kolkata, IIT Kharagpur (_May 2023_)								       		
-- B.Tech., Chemical Engineering | Visvesvaraya National Institute of Technology, Nagpur (_May 2019_)
+- PGDBA | IIM Calcutta, ISI Kolkata, IIT Kharagpur (_May 2023_) | CGPA 9.48 								       		
+- B.Tech., Chemical Engineering | Visvesvaraya National Institute of Technology, Nagpur (_May 2019_) | CGPA 8.02
 
 ## Work Experience
 **Data Scientist @ Mastercard, AI Garage (_May 2023 - Present_)**
 - Improved fraud and chargeback detection models by reducing ~70% features and upgrading production models.
-- Developed new fraud product POC. 
+- Secured **4 US patents** in Graphs and Fraud related products.
+- Core developer of "Token provisioning Fraud" score. 
 
 **Data Science Intern @ Mastercard, AI Garage (_Oct 2022 - April 2023_)**
-- Improved biparitite gragh neutral network (GNN) to obtain better performance
+- Published a research on temporal biparitite gragh neutral network (GNN) for financial graph datasets beating existing baselines.
 
 ## Projects
 ### Project 1
